@@ -1,4 +1,4 @@
-## RETRO KHAATA v2.0
+## RETRO KHAATA v1.0
 
 Retro Khaata is a Python-based command-line invoicing system designed with a retro gaming console aesthetic. It allows freelancers and small business owners to manage clients, generate professional PDF invoices, and track billing history directly from the terminal.
 
